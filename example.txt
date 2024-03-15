@@ -1,0 +1,2 @@
+Hello, this is a Lua-generated text file!
+You can write anything you want here.
