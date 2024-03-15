@@ -1,1 +1,1 @@
-command! -nargs=0 CompleteTodo lua require("invis-notes").create_txt_file()
+command! -nargs=0 CreateTxtFile lua require("invis-notes").create_txt_file()
